@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy MarxMad (Gerardo Vela) </h1>
 
 <p align="center">
-  🧠 Developer Web3 · 🌍 Builder en Ethereum, Starknet y Mantle · 🇲🇽 Founder & Líder de <strong>CriptoUNAM</strong>
+  🧠 Developer Web3 · 🌍 Builder en Ethereum, Starknet y Base · 🇲🇽 Founder & Líder de <strong>CriptoUNAM</strong>
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 ### 🚀 Sobre mí
 
 - 🧑‍🎓 Fundador y líder de **CriptoUNAM**, comunidad Web3 universitaria enfocada en educación y desarrollo en blockchain, DeFi y DAOs.
-- 🔭 Construyendo: **CampusCoin** – una plataforma de economía estudiantil basada en NFTs y pagos cripto.
-- 🏗️ Desarrollando: **Mantle Tycoon** – juego DeFi en tiempo real para simulación económica.
+- 🔭 Construyendo: **CampusCoin** – una plataforma de economía estudiantil basada en NFTs y pagos cripto en Base.
+- 🏗️ Desarrollando: **WalletUNAM** – billetera para estudiantes universitarios basada en MXNB y pagos por SPEI.
 - 💬 Enfocado en: gobernanza on-chain, herramientas para estudiantes, stablecoins y rollups.
 - 🏆 Participante de hackathons como ETHGlobal, Lens Spring, Base Demo Day, Starknet Hack, Mantle Cookathon y más.
 
