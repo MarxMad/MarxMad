@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy MarxMad</h1>
 
 <p align="center">
-  🧠 Developer Web3 · 🌍 Builder en el ecosistema Ethereum, Starknet y Mantle · 🇲🇽 Founder & Líder de <strong>CriptoUNAM</strong>
+  🧠 Developer Web3 · 🌍 Builder en Ethereum, Starknet y Mantle · 🇲🇽 Founder & Líder de <strong>CriptoUNAM</strong>
 </p>
 
 <p align="center">
@@ -41,20 +41,26 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏅 NFT Badges & POAPs
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarxMad&theme=gruvbox&no-bg=true&margin-w=10" />
+  <img src="https://assets.poap.xyz/e36b476c-48ef-4afd-86c4-11b33be30475.png?size=large" alt="CriptoUNAM en Aleph POAP" width="120" />
+  <img src="https://assets.poap.xyz/55b930d1-4dda-46c3-8ab1-09d5b4d45725.png?size=large" alt="ETHGlobal Bangkok POAP" width="120" />
+  <img src="https://i2.seadn.io/base/0x98d9d7b9556ebc8be8f10cd5b7148e9c8adf744e/9fbf7082872bc4e530593fc1745e0e/8a9fbf7082872bc4e530593fc1745e0e.gif?w=1000" alt="Ganador BaseBatchLatam 2025" width="120" />
+  <img src="https://assets.poap.xyz/i-met-criptounameth-at-devcon-2024-2024-logo-1731390897352.png?size=xlarge" alt="ENS CriptoUNAM SEA" width="120" />
+  <img src="https://assets.poap.xyz/devcon-southeast-asia-2024-2024-logo-1730662183036.png?size=xlarge" alt="Devcon SEA POAP" width="120" />
 </p>
+
+> 🏆 <strong>Ganadores de BaseBatchLatam 2025</strong> con <a href="https://github.com/MarxMad/CampusCoinV4Swap">CampusCoin</a>.
 
 ---
 
-### 🧾 NFT Badges
+### 🧠 Comunidad que lidero
 
 <p align="center">
-  <img src="https://nft.koh.gg/api/v1/badge/hackathon/ethglobal?username=MarxMad" alt="ETHGlobal POAP" width="100"/>
-  <img src="https://nft.koh.gg/api/v1/badge/hackathon/lens?username=MarxMad" alt="Lens Hackathon Badge" width="100"/>
-  <img src="https://nft.koh.gg/api/v1/badge/hackathon/mantle?username=MarxMad" alt="Mantle Hackathon Badge" width="100"/>
+  <a href="https://twitter.com/cripto_unam">
+    <img src="https://img.shields.io/badge/@cripto_unam-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X de CriptoUNAM" />
+  </a>
 </p>
 
 ---
@@ -70,10 +76,8 @@
 
 ### 🌐 Conecta conmigo
 
-[![Twitter](https://img.shields.io/badge/@MarxMad-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarxMad)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marxmad)  
-[![Lens](https://img.shields.io/badge/Lens%20Protocol-2db47a?style=for-the-badge)](https://hey.xyz/u/marxmad)  
-[![CriptoUNAM](https://img.shields.io/badge/CriptoUNAM-FFD700?style=for-the-badge)](https://twitter.com/cripto_unam)
+[![X](https://img.shields.io/badge/@gerapedrizco-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/gerapedrizco)  
+[![LinkedIn](https://img.shields.io/badge/Gerardo%20Pedrizco%20Vela-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerardo-pedrizco-vela-a2a786232/)
 
 ---
 
