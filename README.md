@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy MarxMad</h1>
+<h1 align="center">👋 Hola, soy MarxMad (Gerardo Vela) </h1>
 
 <p align="center">
   🧠 Developer Web3 · 🌍 Builder en Ethereum, Starknet y Mantle · 🇲🇽 Founder & Líder de <strong>CriptoUNAM</strong>
