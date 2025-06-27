@@ -33,13 +33,6 @@
 
 ---
 
-### 📌 Proyectos destacados
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarxMad&repo=CampusCoinV4Swap&theme=radical)](https://github.com/MarxMad/CampusCoinV4Swap)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarxMad&repo=Merch30&theme=radical)](https://github.com/MarxMad/Merch30)
-
----
 
 ### 🏅 NFT Badges & POAPs
 
