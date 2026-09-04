@@ -69,7 +69,7 @@
 
 | Evento | Año | Proyecto | Resultado |
 |--------|-----|----------|-----------|
-| **GojaHack** | 2026 | TBD | 🔄 En desarrollo |
+| **[GOYA HACK](https://criptounam.xyz/hackathon)** | 2026 | TBD | 🔄 En desarrollo |
 | **BaseBatchLatam** | 2025 | CampusCoin | 🏆 **Ganador** |
 | **ETHGlobal Bangkok** | 2024 | - | ✅ Participante |
 | **Starknet Hack** | 2024 | - | ✅ Participante |
@@ -77,8 +77,8 @@
 | **Base Demo Day** | 2024 | - | ✅ Participante |
 | **Mantle Cookathon** | 2024 | - | ✅ Participante |
 
-### 🎯 GojaHack 2026
-Actualmente participando en **GojaHack**, enfocado en construir soluciones innovadoras que combinan blockchain con impacto social y educación.
+### 🎯 GOYA HACK 2026
+Actualmente participando en **[GOYA HACK](https://criptounam.xyz/hackathon)**, enfocado en construir soluciones innovadoras que combinan blockchain con impacto social y educación.
 
 ---
 
